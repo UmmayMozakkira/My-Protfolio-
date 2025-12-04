@@ -12,5 +12,5 @@ This portfolio is designed to provide a clear representation of my abilities as 
 - **Contact:** A contact form to reach me directly via email.
 
 ## 🔹 Technologies Used
-- **Frontend:** HTML, CSS, JavaScript  
-- **Design:** Responsive layout, user-friendly interface  
+- **Frontend:** HTML, CSS, JavaScript . 
+- **Design:** Responsive layout, user-friendly interface.  
