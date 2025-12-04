@@ -14,3 +14,5 @@ This portfolio is designed to provide a clear representation of my abilities as 
 ## 🔹 Technologies Used
 - **Frontend:** HTML, CSS, JavaScript . 
 - **Design:** Responsive layout, user-friendly interface.  
+
+Live Preview :  https://ummaymozakkira.github.io/My-Protfolio-/
